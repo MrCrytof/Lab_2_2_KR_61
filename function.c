@@ -14,7 +14,7 @@ double integrandFunction(double x)
 double leftRectangles(double a, double b, int n)
 {
     double h;
-    double sum = 0.0;
+    double sum = 0.00;
     double x;
 
     int i;
